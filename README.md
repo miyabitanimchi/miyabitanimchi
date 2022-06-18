@@ -1,5 +1,8 @@
-### Hi, I'm Miyabi 🤗
+### Hi, I'm Miyabi 😼
 I am a full-stack developer based in in Vancouver, Canada
+
+- [LinkedIn](https://www.linkedin.com/in/miyabi-tanimichi-71001a203/)
+- [Portfolio](https://miyabitanimichi.com/)
 
 <!--
 **miyabitanimchi/miyabitanimchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
