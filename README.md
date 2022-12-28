@@ -1,5 +1,5 @@
 ### Hi, I'm Miyabi 😼
-I am a full-stack developer based in in Vancouver, Canada
+I am a full-stack developer based in Vancouver, Canada
 
 - [LinkedIn](https://www.linkedin.com/in/miyabi-tanimichi-71001a203/)
 - [Portfolio](https://miyabitanimichi.com/)
