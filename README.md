@@ -1,6 +1,6 @@
 ### Hi, I'm Miyabi 😼
 I am a full-stack developer based in Vancouver, Canada. <br/>
-I'm currently seeking a new position. Feel free to contact me! => 💌 miyabitanimichi@gmail.com
+Email 💌 : miyabitanimichi@gmail.com
 
 - [LinkedIn](https://www.linkedin.com/in/miyabi-tanimichi-71001a203/)
 - [Portfolio](https://miyabitanimichi.com/)
